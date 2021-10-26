@@ -1,6 +1,5 @@
-/* .container-fluid {
-    background-color:blue;
-    height: 500px;
-} */
-
-    
+.id {
+    text-align: center;
+    background-color: grey;
+    color: white;
+}
